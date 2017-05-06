@@ -2,7 +2,7 @@
 
 NGINX default file with 404 and 500 error pages.
 
-#server block
+# server-block
 server {
 	server_name iceAndFire.com www.iceAndFire.com;
 	location / {
